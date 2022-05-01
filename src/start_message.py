@@ -21,4 +21,4 @@ Welcome to Anime DL Bot, Here you can Download all Anime for FREE 😁 ,For TG A
 
 __Please read all the instructions about the bot before surfing on...__
 
-See /whats_new to know about latest updates...""", reply_markup=reply_markup, parse_mode="markdown")
+See /whats_new to know about latest updates...""", reply_markup=reply_markup, parse_mode="MARKDOWN")
